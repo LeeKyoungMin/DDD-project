@@ -14,7 +14,6 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.web.servlet.MockMvc;
 
-import com.ddd.membership.domain.pointhst.api.PointHstController;
 import com.ddd.membership.domain.pointhst.application.PointHstService;
 
 @ExtendWith(SpringExtension.class)

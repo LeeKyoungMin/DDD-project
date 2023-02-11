@@ -18,7 +18,6 @@ import org.springframework.test.context.ActiveProfiles;
 import com.ddd.membership.domain.category.domain.Category;
 import com.ddd.membership.domain.partner.dao.PartnerRepository;
 import com.ddd.membership.domain.partner.domain.Partner;
-import com.ddd.membership.domain.point.application.PointService;
 import com.ddd.membership.domain.point.domain.Point;
 import com.ddd.membership.domain.point.dto.PointDto;
 import com.ddd.membership.domain.pointhst.dao.PointHstRepository;

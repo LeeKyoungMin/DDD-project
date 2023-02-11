@@ -14,7 +14,6 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.web.servlet.MockMvc;
 
-import com.ddd.membership.domain.user.api.UserController;
 import com.ddd.membership.domain.user.application.UserService;
 
 @ExtendWith(SpringExtension.class)

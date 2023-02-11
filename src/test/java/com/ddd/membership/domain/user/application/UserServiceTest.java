@@ -17,7 +17,6 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
 import org.springframework.test.context.ActiveProfiles;
 
-import com.ddd.membership.domain.user.application.UserService;
 import com.ddd.membership.domain.user.dao.UserRepository;
 import com.ddd.membership.domain.user.domain.User;
 import com.ddd.membership.domain.user.dto.UserDto;
